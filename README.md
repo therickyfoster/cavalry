@@ -144,7 +144,13 @@ Support means faster deployments, stronger proofs, and sharper transparency tool
 - **GitHub Commits:** https://github.com/TheRickyFoster  
 - **Website Live Tools:** https://planetaryrestorationarchive.com  
 - **Blockchain Proof:** ETH / SOL / BTC wallet logs (funding + timestamping)  
-- **IPFS:** Immutable storage of MasterZIPs, Truth Reports, Humor Ledger  
+- **IPFS:** Immutable storage of MasterZIPs, Truth Reports, Humor Ledger
+
+---
+
+BTC: bc1q2vdx5uy2z2z3hmfydn284n3nqt8zzq2tt7yzl8
+ETH: 0xbcA49DAb23d8e624E06EC9D4Bd3Db14dc475e9FD
+Interac: therickyfoster@outlook.com
 
 ---
 
